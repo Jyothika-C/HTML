@@ -1,0 +1,28 @@
+*{
+    margin:0px;
+}
+
+
+.head{
+background-color: grey;
+color: white;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color:black;
+    color:white;
+}
+.right a{
+    color: white;
+    text-align:20px;
+
+}
+.main{
+    text-align: center;
+    background-color:pink;
+}
+.button{
+    width:100px;
+    height:40px;
+}

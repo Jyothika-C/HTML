@@ -1,0 +1,28 @@
+/* div{
+     border: 10px solid blue; 
+     height:500px;
+     width:400px;
+ 
+} */
+ /* body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Default theme */
+/* .header {
+    background-color: rgb(136, 189, 219);
+    color: rgb(206, 138, 206)
+    ;
+    padding: 20px;
+}
+
+/* Dark theme (after click) */
+/* .dark-theme {
+    background-color: black;
+    color: pink;
+} */ 
+.img-style {
+    width: 400px;
+    height: 300px;
+}
